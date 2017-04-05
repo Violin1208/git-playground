@@ -30,5 +30,8 @@ to create a branch: git branch [name]
 
 to get to the branch you created: git checkout [branch name]
 
+git log : show commits on current branch
+to get out: enter q
+
 
 
