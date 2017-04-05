@@ -24,5 +24,7 @@ In general:
 - is for letters (you can combine letters together with one -)
 -- is for words
 
+git commit -am "xxxxxxx" to add any changes
 
+files changed
 
