@@ -35,5 +35,10 @@ to get out: enter q
 
 cmd k : cleaning the history
 
+Forking: fork  and then clone. In terminal git clone [address of the repo we copied from GitHub]
+then, commit and push. Pull request.
+
+
+
 
 
