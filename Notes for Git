@@ -33,5 +33,7 @@ to get to the branch you created: git checkout [branch name]
 git log : show commits on current branch
 to get out: enter q
 
+cmd k : cleaning the history
+
 
 
