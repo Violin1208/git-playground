@@ -1,0 +1,20 @@
+Notes for Git
+
+mkdir to create a new folder
+
+ls -lah will print everything in the folder in the long format
+
+to make a file: touch [file name]
+
+Two ways to talk to Git: https or over ssh (secure shell) - uses a key
+https://help.github.com/articles/connecting-to-github-with-ssh/
+
+How to check if you have ssh key: cd ~/.ssh
+
+cat - prints out files
+
+sublime
+sublime . will open sublime editor
+
+
+
