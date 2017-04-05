@@ -16,5 +16,13 @@ cat - prints out files
 sublime
 sublime . will open sublime editor
 
+git add . : to add everything in the folder I am in now and everything below this folder
+
+git add --all
+
+In general:
+- is for letters (you can combine letters together with one -)
+-- is for words
+
 
 
