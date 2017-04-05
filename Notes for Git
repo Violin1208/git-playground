@@ -26,5 +26,9 @@ In general:
 
 git commit -am "xxxxxxx" to add any changes
 
-files changed
+to create a branch: git branch [name]
+
+to get to the branch you created: git checkout [branch name]
+
+
 
